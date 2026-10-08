@@ -203,5 +203,5 @@ if prompt:
 # Run
 ###############
 
-# source rag_env/Scripts/activate
+# .\rag_env\Scripts\python.exe -m streamlit run main.py
 # streamlit run main.py
