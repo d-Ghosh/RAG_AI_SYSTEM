@@ -31,14 +31,15 @@ There are no inference API calls and no database services. After the models are 
 ## Screenshots
 
 ### Upload screen — ready state
-![alt text](<Screenshot 2026-10-08 141423.png>)
+<img width="1917" height="1018" alt="Screenshot 2026-10-08 141423" src="https://github.com/user-attachments/assets/9b5f639c-cf59-40d0-bdfc-028c08ff37bd" />
+
 
 The sidebar shows **LLM ready** once the model has loaded. The PDF uploader accepts drag-and-drop or the file browser. The chat area waits for a document before accepting questions.
 
 ---
 
 ### Active conversation
-![alt text](<Screenshot 2026-10-08 141414.png>)
+![alt text](<Screenshot 2026-10-08 141423.png>)
 After indexing, answers stream token-by-token into the chat. The sidebar displays the paragraph count for the indexed document. Follow-up questions reuse the cached index without re-embedding.
 
 ---
