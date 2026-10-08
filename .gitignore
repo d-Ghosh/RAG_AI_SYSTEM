@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Virtual environments
+rag_env/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor / tooling
+.vscode/
+.claude/
+
+# Misc
+unused/
+*.zip
