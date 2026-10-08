@@ -31,7 +31,8 @@ There are no inference API calls and no database services. After the models are 
 ## Screenshots
 
 ### Upload screen — ready state
-<img width="1917" height="1018" alt="Screenshot 2026-10-08 141423" src="https://github.com/user-attachments/assets/9b5f639c-cf59-40d0-bdfc-028c08ff37bd" />
+<img width="1917" height="871" alt="Screenshot 2026-10-08 210452" src="https://github.com/user-attachments/assets/65c13873-7770-4f7e-a215-357da875e34f" />
+
 
 
 The sidebar shows **LLM ready** once the model has loaded. The PDF uploader accepts drag-and-drop or the file browser. The chat area waits for a document before accepting questions.
